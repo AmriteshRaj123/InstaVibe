@@ -1,5 +1,5 @@
 # InstaVibe
-# InstaVibe
+
 
 InstaVibe is a modern Instagram clone built using React.js, Tailwind CSS, React Router, and Supabase for backend services.
 
