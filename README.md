@@ -22,7 +22,7 @@ InstaVibe is a modern Instagram clone built using React.js, Tailwind CSS, React 
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone :- 
+   git clone :- https://github.com/AmriteshRaj123/InstaVibe.git
    cd instavibe
    ```
 2. Install dependencies:
