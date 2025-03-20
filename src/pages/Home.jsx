@@ -19,6 +19,22 @@ export default function Home() {
       caption: 'Living my best life ✨',
       likes: 456,
     },
+    {
+      id: 3,
+      username: 'johndoe',
+      userImage: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e',
+      image: 'https://images.unsplash.com/photo-1682687220742-aba13b6e50ba',
+      caption: 'Beautiful sunset today! 🌅',
+      likes: 9233,
+    },
+    {
+      id: 4,
+      username: 'janedoe',
+      userImage: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330',
+      image: 'https://images.unsplash.com/photo-1682687221038-404670d5f335',
+      caption: 'Living my best life ✨',
+      likes: 456,
+    },
   ];
 
   return (
